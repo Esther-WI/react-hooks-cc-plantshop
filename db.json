@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Esther",
+      "image": "https://www.bethchatto.co.uk/a-z/s-z/symphyotrichum/aster-ericoides-esther.htm",
+      "price": 5,
+      "id": 8
     }
   ]
 }
